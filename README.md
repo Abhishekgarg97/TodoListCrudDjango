@@ -26,7 +26,7 @@
 
 <p align="center">
   <img width="660" height="300" src="todo_list/static/images/a.png">
-  <img width="660" height="300" src="todo_list/static/images/b.png">
+  <img width="800" height="300" src="todo_list/static/images/b.png">
   <img width="660" height="300" src="todo_list/static/images/c.png">
 
 **Copyright ©** 2021 Abhishek Garg
